@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wheelchair User Silhouette -->
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32 A5,5 0 1,1 47.9,32 Z" />
+    <!-- Upper Body, Arm, Seat, Footrest -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,39 L44,39 C42.9,39 42,39.9 42,41 L42,54 C42,55.1 42.9,56 44,56 L55,56 C56.1,56 57,55.1 57,54 L57,48 L51,48 L51,41 C51,39.9 50.1,39 49,39 Z" />
+    <!-- Leg & Footrest -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,56 L63,65 C63.5,65.6 64.3,66 65.1,66 L68,66 C68.8,66 69.5,65.3 69.5,64.5 C69.5,63.7 68.8,63 68,63 L65.8,63 L58.5,54.5 L55,56 Z" />
+    <!-- Wheel Arc (rim) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M42,52 A14,14 0 1,0 52,66" />
+    <!-- Small front caster wheel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,71 A3,3 0 1,1 64.9,71 Z" />
+
+    <!-- Electric Bolt (Innovation & Battery Clinic) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M67,30 L60,40 L65,40 L61,50 L71,39 L66,39 Z" />
+
+    <!-- Repair Spanner / Wrench accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M76,49 C74.8,47.8 73.1,47.5 71.7,48.1 L68.6,45 C68.2,44.6 67.6,44.6 67.2,45 C66.8,45.4 66.8,46 67.2,46.4 L70.3,49.5 C69.7,50.9 70,52.6 71.2,53.8 C72.3,54.9 73.9,55.3 75.3,54.8 L79,58.5 C79.6,59.1 80.5,59.1 81.1,58.5 C81.7,57.9 81.7,57 81.1,56.4 L77.4,52.7 C77.9,51.3 77.5,49.7 76,49 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "ศูนย์ซ่อมวีลแชร์ ม.35",
+  "description": "แอปพลิเคชันนำเสนอโครงการขอรับสิทธิสัมปทานและจ้างเหมาบริการตามมาตรา 35 ศูนย์ซ่อมแซมและฟื้นฟูอุปกรณ์คนพิการชุมชนนวัตกรรม จ.นครนายก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
